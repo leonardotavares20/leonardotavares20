@@ -1,5 +1,5 @@
 # 💫 About Me:
-👓 20y | Projeto de programador<br>🍃 Fique a vontade pra falar comigo, sou bem tranquilo<br>📓 Atualmente estudo Desenvolvimento Web<br>⚡️ Sempre aprendendo<br>🎹 Amo ouvir musica, indie, rock, eletrônica, e falar sobre games<br>💪🏽 Do or do not there is no try
+👓 20y | Projeto de programador<br>🍃 Fique a vontade pra falar comigo<br>📓 Atualmente estudo Desenvolvimento Web<br>⚡️ Sempre aprendendo<br>🎹 Amo ouvir musica, indie, rock, eletrônica, e falar sobre games<br>💪🏽 Do or do not there is no try
 
 
 ## 🌐 Socials:
