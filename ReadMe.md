@@ -1,6 +1,5 @@
 # 💫 About Me:
-👓 20y | Projeto de programador<br>🍃 Fique a vontade pra falar comigo<br>📓 Atualmente estudo Desenvolvimento Web<br>⚡️ Sempre aprendendo<br>🎹 Amo ouvir musica, indie, rock, eletrônica, e falar sobre games<br>💪🏽 Do or do not there is no try
-
+👓 20y |Web Development Student<br>🍃 Feel free to talk to me<br> <br>⚡️ Always learning<br>🎹 BeatleLover
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madeon4889) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Latter_Run_8399) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Leonard38469871) 
