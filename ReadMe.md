@@ -13,7 +13,7 @@
 <summary> <b> <samp> Projetos </samp></b></summary>
 <samp>
 
-<img src="https://i.redd.it/a41kgehvpsr81.gif" width="200"/>
+<!-- <img src="https://i.redd.it/a41kgehvpsr81.gif" width="200"/> -->
 
 <!-- Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a> -->
 
