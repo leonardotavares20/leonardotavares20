@@ -23,7 +23,7 @@
 <samp>
  <b><h2 style="color: #fc6203"> Leonardo Silva </h2> </b>
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fa41kgehvpsr81.gif" width="200"/>
+<img src="https://i.redd.it/a41kgehvpsr81.gif" width="200"/>
 
 <!-- Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a> -->
 
