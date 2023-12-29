@@ -23,9 +23,9 @@
 <samp>
  <b><h2 style="color: #fc6203"> Leonardo Silva </h2> </b>
 
-<img src="https://media.tenor.com/uLgErHRe794AAAAi/zero.gif" width="200"/>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fa41kgehvpsr81.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+<!-- Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a> -->
 
 <p align="center">
   <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
@@ -40,8 +40,8 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a> -->
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a> -->
 </p>
 
 </samp>
