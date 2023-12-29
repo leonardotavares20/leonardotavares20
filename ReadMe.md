@@ -5,6 +5,7 @@
     Eai pessoal! Me chamo <b><a rel="#" target="_blank" href="#">Leonardo</a></b>.
       <br>Sou Desenvolvedor Front-End focado em UX(User Experience), apaixonado por gatos, jogos, musica e layouts responsivos<br>
     </samp>
+    <br/>
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8kdoi-5fc57a3e-4b95-4da8-8bc7-10db3ece94a0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3NWRmYWU5LWY5YjUtNDZjOS1iY2Q4LTYyZTdkNDBiYTE3N1wvZGc4a2RvaS01ZmM1N2EzZS00Yjk1LTRkYTgtOGJjNy0xMGRiM2VjZTk0YTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gGnzKUSefd7tVuHTh5EdpCm5lyQ5GUisPRhGqWljfVc" width="200"/>
   </p>
 
