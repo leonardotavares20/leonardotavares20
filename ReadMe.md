@@ -8,8 +8,11 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="#" target="_blank" href="#">Leo</a></b>.
-    <br>I'm a development student from Brazil.<br>
+   Eai pessoal! Me chamo <b><a rel="#" target="_blank" href="#">Leonardo</a></b>.
+    <br>Sou Desenvolvedor Front-End focado em UX(User Experience), apaixonado por gatos, jogos, musica e layouts responsivos<br>
+
+    # Skills
+
 
 </samp>
 
@@ -28,7 +31,7 @@
 <!-- Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a> -->
 
 <p align="center">
-  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a> -->
   &nbsp; 
   &nbsp;
@@ -40,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a> -->
   &nbsp;
   &nbsp;
-  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="#">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a> -->
 </p>
 
