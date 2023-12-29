@@ -10,8 +10,7 @@
   <samp>
    Eai pessoal! Me chamo <b><a rel="#" target="_blank" href="#">Leonardo</a></b>.
     <br>Sou Desenvolvedor Front-End focado em UX(User Experience), apaixonado por gatos, jogos, musica e layouts responsivos<br>
-
-    # Skills
+    
 
 
 </samp>
