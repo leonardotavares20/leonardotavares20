@@ -10,9 +10,8 @@
 
 <details align="center">
 
-<summary> <b> <samp> Projetos! </samp></b></summary>
+<summary> <b> <samp> Projetos </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203"> Leonardo Silva </h2> </b>
 
 <img src="https://i.redd.it/a41kgehvpsr81.gif" width="200"/>
 
