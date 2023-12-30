@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Leo</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Eai Pessoal! Me chamo<b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leo</a></b>.
+    <br>Sou desenvolvedor Front-End focado em UX(Experiência do usuário)<br>
 
 </samp>
  <br/> 
