@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Eai Pessoal! Me chamo<b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leo</a></b>.
+    Eai Pessoal! Me chamo <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leo</a></b>.
     <br>Sou desenvolvedor Front-End focado em UX(Experiência do usuário) e acessibilidade.<br>
 
 </samp>
