@@ -9,8 +9,10 @@
   <img src="https://i.giphy.com/mQI2sfO7U7MOcxoPdn.webp" width="200"/>
 
 </p>
+<div align="center">
 
-<p align="center">
+  
+<samp align="center">
 
 <summary> <b> <samp> Projetos </samp></b></summary>
 <samp align="center">
@@ -36,4 +38,5 @@ Current Project: <a href="">Dijkstra's shortest path visualizer.</a>
 </p> -->
 
 </samp>
+</div>
 </details>
