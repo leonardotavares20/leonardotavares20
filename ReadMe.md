@@ -13,7 +13,7 @@
 <details align="center">
 
 <summary> <b> <samp> Projetos </samp></b></summary>
-<samp>
+<samp align="center">
 <img src="https://i.giphy.com/7xfpmHHFgmtrO7t29F.webp" width="200"/>
 <!--
 Current Project: <a href="">Dijkstra's shortest path visualizer.</a>
