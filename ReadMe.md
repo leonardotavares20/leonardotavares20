@@ -8,6 +8,8 @@
   <img src="https://i.giphy.com/mQI2sfO7U7MOcxoPdn.webp" width="200"/>
 </p>
 
+<!--<p>Sobre mim: Entusiasta de Go, apaixonado por gatos, jogos, musica e layouts responsivos</p> -->
+
 <div align="center">
   
 <details align="center">
