@@ -10,7 +10,7 @@
 
 </p>
 
-<details align="center">
+<p align="center">
 
 <summary> <b> <samp> Projetos </samp></b></summary>
 <samp align="center">
