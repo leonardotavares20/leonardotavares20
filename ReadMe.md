@@ -6,6 +6,7 @@
   </samp>
   <br/> 
   <img src="https://i.giphy.com/mQI2sfO7U7MOcxoPdn.webp" width="200"/>
+  <img src="https://i.giphy.com/9fngGUe3uNfZo7R1mC.webp" width="150"/>
 </p>
 
 <!--<p>Sobre mim: Entusiasta de Go, apaixonado por gatos, jogos, musica e layouts responsivos</p> -->
