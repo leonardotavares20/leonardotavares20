@@ -2,7 +2,7 @@
   <br>
   <samp>
     Eai Pessoal! Me chamo <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leo</a></b>.
-    <br>Sou desenvolvedor Front-End focado em UX e acessibilidade.<br>
+    <br>Sou desenvolvedor Front-End focado em User Experience.<br>
   </samp>
   <br/> 
   <img src="https://i.giphy.com/mQI2sfO7U7MOcxoPdn.webp" width="200"/>
