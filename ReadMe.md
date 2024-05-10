@@ -15,7 +15,7 @@
   
 <details align="center">
 
-<summary> <b> <samp> Projetos </samp></b></summary>
+<summary> <b> <samp> Projects </samp></b></summary>
 <img src="https://i.giphy.com/7xfpmHHFgmtrO7t29F.webp" width="200"/>
 <samp>
  <b align=""><h2 style="color: #fc6203">&nbsp; COMING SOON!</h2> </b>
