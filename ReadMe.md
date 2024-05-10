@@ -1,15 +1,15 @@
 <div align="center">
   <br>
   <samp>
-    Eai Pessoal! Me chamo <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leo</a></b>.
-    <br>Sou desenvolvedor Front-End focado em Web Motion.<br>
+    Hey guys! My name is <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Leonardo</a></b>.
+    <br>I'm a Front-End developer specializing in Web Motion.<br>
   </samp>
   <br/> 
   <img src="https://i.giphy.com/mQI2sfO7U7MOcxoPdn.webp" width="200"/>
   <img src="https://i.giphy.com/9fngGUe3uNfZo7R1mC.webp" width="150"/>
 </p>
 
-<!--<p>Sobre mim: Entusiasta de Go, apaixonado por gatos, jogos, musica e layouts responsivos</p> -->
+<!--<p>About me: WebMotion enthusiast, passionate about cats, games, music and responsive layouts :)</p> -->
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 <summary> <b> <samp> Projetos </samp></b></summary>
 <img src="https://i.giphy.com/7xfpmHHFgmtrO7t29F.webp" width="200"/>
 <samp>
- <b align=""><h2 style="color: #fc6203">&nbsp; EM BREVE!</h2> </b>
+ <b align=""><h2 style="color: #fc6203">&nbsp; COMING SOON!</h2> </b>
 
 
 <!--
